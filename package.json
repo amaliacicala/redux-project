@@ -1,0 +1,11 @@
+{
+	"name": "redux-project",
+	"scripts": {
+		"start": "webpack-dev-server --config ./webpack.config.js"
+	},
+	"devDependencies": {
+		"webpack": "4.41.6",
+		"webpack-cli": "3.3.11",
+		"webpack-dev-server": "3.10.3"
+	}
+}
